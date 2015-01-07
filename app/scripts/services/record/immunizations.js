@@ -10,7 +10,7 @@
 angular.module('phrPrototypeApp')
     .service('immunizations', function immunizations() {
 
-        var tmpPartial = {
+        var tmpImmunization = {
             "date_time": {
                 "point": {
                     "date": "1999-11-01T00:00:00Z",
@@ -85,7 +85,7 @@ angular.module('phrPrototypeApp')
             }]
         };
 
-        var tmpImmunization = {
+        var tmpPartial = {
             "date_time": {
                 "point": {
                     "date": "1999-11-01T00:00:00Z",
