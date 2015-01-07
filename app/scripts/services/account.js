@@ -14,13 +14,13 @@ angular.module('phrPrototypeApp')
             var account = {
                 "name": {
                     "middle": [
-                        "Isa"
+                        "S."
                     ],
-                    "last": "Jones",
-                    "first": "Isabella"
+                    "last": "Demo",
+                    "first": "Suzie"
                 },
                 "dob": [{
-                    "date": "1975-05-01T00:00:00Z",
+                    "date": "1982-05-01T00:00:00Z",
                     "precision": "day"
                 }],
                 "gender": "Female",
@@ -47,7 +47,7 @@ angular.module('phrPrototypeApp')
                     "type": "primary home"
                 }],
                 "email": [{
-                    "email": "test@fake.com",
+                    "email": "suzie@amida-demo.com",
                     "type": "primary home"
                 },{
                     "email": "test@fakework.com",
