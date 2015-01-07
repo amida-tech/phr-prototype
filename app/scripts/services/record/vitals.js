@@ -103,7 +103,7 @@ angular.module('phrPrototypeApp')
                 'merged': '2007-05-01T00:00:00Z'
             }],
             'comments': [{
-                'comment': "I'm getting kinda heavy, I need to exercise more.",
+                'comment': "Need to pay more attention to this.",
                 'date': '2005-05-01T00:12:00Z',
                 'starred': true
             }]
